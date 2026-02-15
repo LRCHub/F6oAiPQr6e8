@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ザ・ツイスト",
+  "base_artist": "Chubby Checker",
+  "createdAt": "2026-02-15T13:59:14.515057Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Twist",
+      "artist": "Chubby Checker",
+      "has_synced": false,
+      "path": "select/pl_01_The_Twist_Chubby_Checker.txt"
+    }
+  ]
+}
